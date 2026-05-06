@@ -64,4 +64,4 @@ Demo link: [InterviewCoach](https://ai-interview-coach-pink-three.vercel.app/)
 - **Ramya Bhat**
 
 ---
-*Created as part of the ProofHire initiative.*
+
